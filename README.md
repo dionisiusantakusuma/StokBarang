@@ -1,15 +1,1 @@
-📦 About Project
-StokBarang adalah web berbasis Laravel sederhana yang digunakan untuk mengelola data stok barang.
-
-⚙️ Fitur Web
-Menampilkan data barang
-Tambah barang baru
-Edit data barang
-Hapus barang
-Monitoring stok barang
-
-🛠️ Teknologi yang Digunakan
-Laravel
-PHP
-MySQL
-HTML & CSS
+📦 StokBarang adalah web berbasis Laravel sederhana yang digunakan untuk mengelola data stok barang. Fungsi dari web ini adalah menampilkan data barang, menambah barang baru, mengedit data barang, menghapus barang, monitoring stok barang. Dibuat dengan Laravel, PHP, MySQL, HTML dan CSS
