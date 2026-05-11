@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    margin: 40px;
+}
+
+h1 {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.btn-tambah {
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 10px 15px;
+    background-color: #3490dc;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-tambah:hover {
+    background-color: #2779bd;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+table th {
+    background-color: #3490dc;
+    color: white;
+    padding: 12px;
+}
+
+table td {
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+.btn-edit {
+    padding: 7px 12px;
+    background-color: #38c172;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.btn-hapus {
+    padding: 7px 12px;
+    background-color: #e3342f;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form {
+    display: inline;
+}
